@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'Work Sans';
+    src: url(assets/fonts/WorkSans-VariableFont_wght.ttf);
+}
+
+:root {
+    --desktop-background: url(assets/images/background-pattern-desktop.svg);
+    --mobile-background: url(assets/images/background-pattern-mobile.svg);
+    --star-icon: url(assets/images/icon-star.svg);
+    --plus-icon: url(assets/images/icon-plus.svg);
+    --minus-icon: url(assets/images/icon-minus.svg);
+}
+
+body {
+    margin: 0;
+    background-color: hsl(275, 100%, 97%);
+}
+
+.faq {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faq-container {
+    width: 80%;
+    margin: 15% 5%;
+    padding: 25px;
+    border-radius: 10px;
+    font-family: 'Work Sans';
+    background-color: hsl(0, 0%, 100%);
+}
+
+.faq-title {
+    display: flex;
+}
+
+.faq-title .icon {
+    position: relative;
+}
+
+.faq-title .icon::after {
+    content: var(--star-icon);
+}
+
+.faq-title h1 {
+    font-size: 35px;
+}
+
+.faq-title .text {
+    margin-left: 25px;
+    color: hsl(292, 42%, 14%);
+}
+
+.faq-content {
+    font-size: 16px;
+}
+
+.faq-content .question {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    color: hsl(292, 42%, 14%);
+    transition: 0.5s ease-out;
+    cursor: pointer;
+}
+
+.faq-content .question h4 {
+    width: 80%;
+}
+
+.faq-content .question .faq-button {
+    position: relative;
+}
+
+.faq-content .question .faq-button::after {
+    content: var(--plus-icon);
+}
+
+.faq-content .question:hover {
+    color: hsl(292, 71%, 46%);
+}
+
+.faq-content .answer {
+    display: none;
+    color: hsl(292, 16%, 49%);
+    transition: 0.5s ease-in;
+}
+
+/* JAVASCRIPT-ADDED CLASS STYLING */
+.faq-content.active .question .faq-button::after {
+    content: var(--minus-icon);
+    transition: all 0.5s ease-out;
+}
+.faq-content.active .answer {
+    display: block;
+    transition: all 0.5s ease-out;
+}
+
+.attribution {
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 425px) {
+    .faq {
+        background: url(assets/images/background-pattern-mobile.svg) top no-repeat;
+    }
+    .faq-container {
+        margin: 30% 5%;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .faq {
+        background: url(assets/images/background-pattern-desktop.svg) no-repeat top;
+    }
+}
