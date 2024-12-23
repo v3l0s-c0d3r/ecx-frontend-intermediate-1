@@ -117,7 +117,7 @@ body {
     }
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 2560px) {
     .faq {
         background: url(assets/images/background-pattern-desktop.svg) no-repeat top;
     }
