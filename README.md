@@ -31,15 +31,15 @@ I created an accordion of sample Frequently Asked Questions (FAQs) using simple 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP
+👉 **Interactive FAQ Accordion**: A user-friendly accordion that toggles answers to FAQs with a simple click, enhancing content accessibility.  
 
-👉 **3D Model Rendering with Different Colors and Sizes**: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options
+👉 **Smooth Animations with CSS Transitions**: Elegant transitions for opening and closing accordion items, providing a polished user experience.  
 
-👉 **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience
+👉 **Dynamic Icon Toggle**: Icons switch between `+` and `-` symbols to visually indicate the expanded or collapsed state of each FAQ item.  
 
-👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes
+👉 **Hover Effects**: Subtle color changes on FAQ questions when hovered, improving interactivity and user feedback.  
 
-...and many more, including code architecture and reusability.
+👉 **Fully Responsive Design**: Adapts seamlessly to all screen sizes, from mobile to desktop, ensuring usability across devices.
 
 ## <a name="follow-me">🫱🏽‍🫲🏼 Let's Connect</a>
 **Hey there! Interested in working with me?** 
