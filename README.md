@@ -5,11 +5,11 @@
 
   <div>
     <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26" alt="html" />
-    <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white&color=#1572B6" alt="css" />
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=#F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6" alt="css" />
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E" alt="javascript" />
   </div>
 
-  <h3 align="center">My iPhone 15 Website Clone</h3>
+  <h3 align="center">Javascript FAQ Accordion</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -21,17 +21,13 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
+I created an accordion of sample Frequently Asked Questions (FAQs) using simple JS DOM manipulation as a solution to a Frontend Mentor challenge and a project submission for a tech training program I participated in.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- GSAP (Greensock)
-- Vite
-- Tailwind CSS
+- HTML5
+- CSS3
+- Vanilla JS
 
 ## <a name="features">🔋 Features</a>
 
