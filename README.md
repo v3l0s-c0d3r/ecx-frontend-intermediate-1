@@ -51,4 +51,4 @@ Looking forward to geeking out together!
 <br/>
 <br/>
 <br/>
-<i>courtesy of [Javascript Mastery](https://www.youtube.com/@javascriptmastery) | [Adrian Hajdin](https://github.com/adrianhajdin)</i>
+<i>courtesy of [Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
