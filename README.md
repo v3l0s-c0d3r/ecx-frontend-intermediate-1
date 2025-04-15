@@ -1,15 +1,12 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
-      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
-    </a>
+    <img src="design/desktop-design.jpg" alt="Project Banner">
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26" alt="html" />
+    <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white&color=#1572B6" alt="css" />
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=#F7DF1E" alt="javascript" />
   </div>
 
   <h3 align="center">My iPhone 15 Website Clone</h3>
