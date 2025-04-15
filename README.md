@@ -6,7 +6,7 @@
   <div>
     <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26" alt="html" />
     <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6" alt="css" />
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E" alt="javascript" />
   </div>
 
   <h3 align="center">Javascript FAQ Accordion</h3>
